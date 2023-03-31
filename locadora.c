@@ -188,7 +188,6 @@ int main(int argc, char *argv[])
 		system(limpar_tela);
 	}
  
-	printf("\nBye! Visite: www.GeeksBR.com ;-)\n");
 	return 0;
 }
  
