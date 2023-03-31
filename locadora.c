@@ -1,16 +1,4 @@
-/*
-	Locadora GeeksBR
 
-	Esse é um programa que implementa uma locadora de filmes.
-	Possui algumas funções, as atualizações de arquivos são feitas no momento
-	que são alterados os dados.
-
-	Os ID's dos filmes e dos clientes são gerados automaticamente.
-
-	O código está todo comentado.
-
-	Dúvidas? www.GeeksBR.com
-*/
  
 // testa se o sistema é Windows, pois o "cls" funciona somente no Windows,
 // senão utiliza o "clear" que é o comando para limpar a tela no Linux
@@ -210,7 +198,7 @@ char menu()
 {
 	char resp[2];
  
-	printf("------------------------------ Locadora GeeksBR ------------------------------");
+	printf("------------------------------ Locadora ------------------------------");
 	printf("\n\n1 - Cadastrar um filme\n");
 	printf("2 - Cadastrar um cliente\n");
 	printf("3 - Listar todos os filmes\n");
